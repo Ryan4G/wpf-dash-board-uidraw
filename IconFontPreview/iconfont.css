@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1624865658119') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-windows:before {
+  content: "\e898";
+}
+
+.icon-bell:before {
+  content: "\e621";
+}
+
+.icon-weibo:before {
+  content: "\e75a";
+}
+
+.icon-microsoftoutlook:before {
+  content: "\e653";
+}
+
+.icon-skype:before {
+  content: "\e648";
+}
+
+.icon-star:before {
+  content: "\e508";
+}
+
+.icon-xbox:before {
+  content: "\f26c";
+}
+
+.icon-Office:before {
+  content: "\edcd";
+}
+
+.icon-user:before {
+  content: "\e6cc";
+}
+
+.icon-bing:before {
+  content: "\eb4c";
+}
+
+.icon-microsoftazure:before {
+  content: "\ec16";
+}
+

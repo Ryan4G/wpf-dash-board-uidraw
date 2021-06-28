@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "929976",
+      "name": "windows",
+      "font_class": "windows",
+      "unicode": "e898",
+      "unicode_decimal": 59544
+    },
+    {
+      "icon_id": "1567428",
+      "name": "bell",
+      "font_class": "bell",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1899144",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "3876407",
+      "name": "microsoftoutlook",
+      "font_class": "microsoftoutlook",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "5226632",
+      "name": "skype",
+      "font_class": "skype",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "5524666",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "5634916",
+      "name": "xbox",
+      "font_class": "xbox",
+      "unicode": "f26c",
+      "unicode_decimal": 62060
+    },
+    {
+      "icon_id": "6808490",
+      "name": "Office",
+      "font_class": "Office",
+      "unicode": "edcd",
+      "unicode_decimal": 60877
+    },
+    {
+      "icon_id": "7684914",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "15378180",
+      "name": "bing",
+      "font_class": "bing",
+      "unicode": "eb4c",
+      "unicode_decimal": 60236
+    },
+    {
+      "icon_id": "15378590",
+      "name": "microsoftazure",
+      "font_class": "microsoftazure",
+      "unicode": "ec16",
+      "unicode_decimal": 60438
+    }
+  ]
+}
